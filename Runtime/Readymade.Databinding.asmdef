@@ -1,0 +1,19 @@
+﻿{
+  "name": "Readymade.Databinding",
+  "rootNamespace": "",
+  "references": [
+    "NaughtyAttributes.Core",
+    "Vertx.Debugging.Runtime",
+    "Unity.TextMeshPro",
+    "Unity.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

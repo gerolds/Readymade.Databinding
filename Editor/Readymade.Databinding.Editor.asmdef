@@ -1,0 +1,18 @@
+﻿{
+  "name": "Readymade.Databinding.Editor",
+  "rootNamespace": "",
+  "references": [
+    "Builder.Databinding"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
