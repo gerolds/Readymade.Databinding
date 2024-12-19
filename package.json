@@ -1,0 +1,21 @@
+﻿{
+  "name": "com.anglebracket.readymade-databinding",
+  "version": "0.1.0",
+  "displayName": "Readymade.Databinding",
+  "description": "A really simple versions of scriptable object architecture to be used where it makes sense and nowhere else.",
+  "unity": "6000.0",
+  "unityRelease": "0",
+  "documentationUrl": "https://github.com/gerolds/Readymade.Databinding",
+  "changelogUrl": "https://github.com/gerolds/Readymade.Databinding/CHANGELOG.md",
+  "licensesUrl": "https://github.com/gerolds/Readymade.Databinding/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "Databinding"
+  ],
+  "author": {
+    "name": "Gerold Schneider",
+    "email": "",
+    "url": "https://github.com/gerolds"
+  }
+}
